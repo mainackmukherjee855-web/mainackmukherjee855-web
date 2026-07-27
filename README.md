@@ -28,10 +28,10 @@ I am a first-year Computer Science & Engineering undergrad specializing in **Art
 
 ---
 
-## 📊 My GitHub Streak & Activity
+## 📊 Activity Summary
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mainackmukherjee855-web&theme=tokyonight&hide_border=true" width="90%" alt="GitHub Streak" />
+  <img src="https://ghchart.rshah.org/409ba5/mainackmukherjee855-web" width="100%" alt="Mainack's GitHub Activity Chart" />
 </p>
 
 ---
@@ -43,5 +43,6 @@ I am a first-year Computer Science & Engineering undergrad specializing in **Art
 ---
 
 *“The best way to predict the future is to invent it.”*
+
 
 
