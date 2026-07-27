@@ -31,8 +31,7 @@ I am a first-year Computer Science & Engineering undergrad specializing in **Art
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mainackmukherjee855-web&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainackmukherjee855-web&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mainackmukherjee855-web&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="90%" />
 </p>
 
 ---
@@ -44,4 +43,5 @@ I am a first-year Computer Science & Engineering undergrad specializing in **Art
 ---
 
 *“The best way to predict the future is to invent it.”*
+
 
